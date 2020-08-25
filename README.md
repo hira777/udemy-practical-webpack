@@ -1,6 +1,6 @@
 # 『webpack 実践入門 ：webpack の基礎をしっかり理解して使いこなす』
 
-[『webpack 実践入門 ：webpack の基礎をしっかり理解して使いこなす』]()のサンプルコード集です。
+[『webpack 実践入門 ：webpack の基礎をしっかり理解して使いこなす』](https://www.udemy.com/course/practical-webpack/?referralCode=94EA58EA414D2694A1BB)のサンプルコード集です。
 
 ## セクション３: webpack を利用してみる
 
